@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway:wght@400;700&display=swap');
+:root{
+    --darkBlue:hsl(243, 87%, 12%);
+    --desaBlue:hsl(238, 22%, 44%);
+    --brightBlue:hsl(224, 93%, 58%);
+    --modCyan:hsl(170, 45%, 43%);
+    --grey:hsl(240, 75%, 98%);
+    --greylish:hsl(0, 0%, 75%);
+    --ff-100: 'Open Sans', sans-serif;
+    --ff-200: 'Raleway', sans-serif;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: var(--ff-100);
+}
